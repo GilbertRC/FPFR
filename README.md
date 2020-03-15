@@ -1,8 +1,6 @@
 # Learning Fused Pixel and Feature-based View Reconstructions for Light Fields (FPFR)
 <br>
-CVPR submission ID 9007
-<br>
-Welcom to our FPFR project! This project includes a simplified version of our program demonstrating how our approach generates a light field based on the sparsely sampled views. We strongly recommand that the readers follow the instructions below to synthesize a light field by yourself.
+Welcom to our FPFR project! This project includes a simplified version of our program demonstrating how our approach generates a light field based on the sparsely sampled views. We strongly recommand that the readers follow the instructions below to synthesize a light field by yourself. The code source will be available soon.
 
 ## Check environment
 Our project is implemented in **Python** with the deep learning framework **tensorflow (version 1.13.1)**
